@@ -20,7 +20,7 @@ MAX_DELETE_TIME = 10080    # 7 days in minutes
 LOG_LEVEL = "INFO"
 LOG_FORMAT = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 ADMIN_IDS = [6082136901]
-FORCE_SUB_CHANNEL_ID = "-1002581367215"
+FORCE_SUB_CHANNEL_ID = "-1002706901945"
 # MongoDB configuration
 MONGODB_URI = 'mongodb+srv://valentina:valentina@cluster0.igx2yx7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0' # or your MongoDB connection string
 DATABASE_NAME = 'autopost'
